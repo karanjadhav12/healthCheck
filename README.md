@@ -16,9 +16,9 @@ parser.add_argument(
     help="C:\\path\\to\\your\\.yaml\\file")
 
 
-#### Clone the repositor. You can modify application.yaml file or create your own. Make sure it follows the YAML format.
-git clone <link to the repo>
-cd <repo-folder>
+#### Clone the repository. You can modify application.yaml file or create your own. Make sure it follows the YAML format.
+git clone 'link to the repo'
+cd 'repo-folder'
 
 Or download the files:
 Save health-check.py and application.yaml in the same directory.
